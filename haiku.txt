@@ -1,1 +1,2 @@
-Making one is hard
+Learning Git in class,
+It gets quite complex.
