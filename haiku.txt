@@ -1,1 +1,2 @@
-Learning Git in class
+Learning Git in class,
+Branches fork, wisdom unfolds
